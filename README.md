@@ -32,7 +32,7 @@
 * delete
 * delete_at
 * delete_if
-* each
+* each - COMPLETED
 * each_index
 * empty?
 * first

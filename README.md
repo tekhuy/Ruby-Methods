@@ -42,7 +42,7 @@
 * join
 * keep_if
 * last
-* map
+* map - COMPLETED
 * pop
 * reject
 * select
